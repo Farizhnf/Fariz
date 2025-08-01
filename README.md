@@ -10,7 +10,8 @@ My strength lies in **design thinking** and turning ideas into clean, intuitive 
 - 🎨 Graphic Design for Branding, Social Media, and Marketing
 - 🧠 Still exploring and learning front-end
 
----
+#
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="60" />
@@ -20,6 +21,6 @@ My strength lies in **design thinking** and turning ideas into clean, intuitive 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/> &nbsp;
 </p>
 
----
+#
 
 > “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
