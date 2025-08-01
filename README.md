@@ -1,14 +1,16 @@
 # 👋 Hellow there! I'm Fariz
 
-I'm passionate about **design and technology**.  
-I love learning new things, adapting to challenges, and always seeking ways to grow both creatively and technically.
+I'm passionate about **design and technology**. I love learning new things, adapting to challenges, and always seeking ways to grow both creatively and technically.
+
 I'm not an expert coder — but I'm curious, open-minded, and always willing to learn 👨‍💻  
 My strength lies in **design thinking** and turning ideas into clean, intuitive visuals.
+
 
 - 💻 UI/UX Design for Web & Mobile
 - 🎨 Graphic Design for Branding, Social Media, and Marketing
 - 🧠 Still exploring and learning front-end
 
+---
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="50" />
